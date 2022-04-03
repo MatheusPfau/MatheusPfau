@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Seja bem vindo à minha página!!! </h1>
-  <h2>Eu sou o <a href="https://www.linkedin.com/in/matheus-guarnieri-pfau-ferreira-b651751a0/"><i>Matheus Pfau</i></a> 😃️</h2>
-  <p align="center">Curso Sistema de Informação pelo <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Mackenzie</i></a>
+  <h2 align="center"><a href="https://www.linkedin.com/in/matheus-guarnieri-pfau-ferreira-b651751a0/"><i>:star2:Matheus Guarnieri Pfau Ferreira</i></a></h2>
+  <p align="center">Graduação Bacharelado - Sistema de Informação pelo <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Universidade Presbiteriana Mackenzie</i></a>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
